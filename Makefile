@@ -1,3 +1,6 @@
+#
 # NeonOS Makefile
 #
-# 2025 (c) NeonOS-Project 
+
+CFLAGS  := -Wall -Wextra -pedantic -O1 -nostdlib -nostartfiles
+LDFLAGS := -funroll-loops -flto -ffreestanding

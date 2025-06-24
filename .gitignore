@@ -1,6 +1,8 @@
 # Directories
 .vscode/
 .vs/
+external/
+limine/
 
 # Random files
 .DS_Store
@@ -10,3 +12,4 @@
 .log
 .dmp
 .rst
+.rs
