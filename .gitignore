@@ -3,6 +3,8 @@
 .vs/
 external/
 limine/
+musl/
+build/
 
 # Random files
 .DS_Store
